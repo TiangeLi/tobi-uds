@@ -1,0 +1,5 @@
+python-dotenv
+fpdf
+langchain-text-splitters
+langchain
+langchain-openai
