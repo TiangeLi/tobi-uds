@@ -1,5 +1,5 @@
 python-dotenv
-fpdf
+fpdf2
 langchain-text-splitters
 langchain
 langchain-openai
