@@ -62,6 +62,7 @@ def generate_pdf(text):
         pdf.set_font("DejaVu", size=heading_font_size)
         pdf.write(text=heading)
         pdf.ln()
+        pdf.ln()
         pdf.set_font("DejaVu", size=10)
         pdf.multi_cell(w=0, txt=content, markdown=True)
         pdf.ln()
